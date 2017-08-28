@@ -1,0 +1,7 @@
+E:\TeamFondationServers\GeoIPCity\GeoIPCity\bin\Debug\GeoIPCity.exe.config
+E:\TeamFondationServers\GeoIPCity\GeoIPCity\bin\Debug\GeoIPCity.exe
+E:\TeamFondationServers\GeoIPCity\GeoIPCity\bin\Debug\GeoIPCity.pdb
+E:\TeamFondationServers\GeoIPCity\GeoIPCity\bin\Debug\GMaps.dll
+E:\TeamFondationServers\GeoIPCity\GeoIPCity\obj\Debug\GeoIPCity.csprojResolveAssemblyReference.cache
+E:\TeamFondationServers\GeoIPCity\GeoIPCity\obj\Debug\GeoIPCity.exe
+E:\TeamFondationServers\GeoIPCity\GeoIPCity\obj\Debug\GeoIPCity.pdb
